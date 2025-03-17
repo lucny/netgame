@@ -1,0 +1,112 @@
+[
+  {
+    "playerName": "itutui",
+    "score": "216.478",
+    "stats": {
+      "white": 8,
+      "yellow": 2,
+      "black": 1,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T20:08:55.268Z"
+  },
+  {
+    "playerName": "zuzana",
+    "score": "183.373",
+    "stats": {
+      "white": 8,
+      "yellow": 1,
+      "black": 0,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T20:48:48.737Z"
+  },
+  {
+    "playerName": "hugo",
+    "score": "175.990",
+    "stats": {
+      "white": 5,
+      "yellow": 2,
+      "black": 0,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T20:49:58.190Z"
+  },
+  {
+    "playerName": "tom",
+    "score": "172.587",
+    "stats": {
+      "white": 8,
+      "yellow": 1,
+      "black": 0,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T20:47:48.235Z"
+  },
+  {
+    "playerName": "alois",
+    "score": "153.951",
+    "stats": {
+      "white": 7,
+      "yellow": 1,
+      "black": 1,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T19:42:17.449Z"
+  },
+  {
+    "playerName": "jirka",
+    "score": "144.069",
+    "stats": {
+      "white": 10,
+      "yellow": 0,
+      "black": 0,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T19:43:09.267Z"
+  },
+  {
+    "playerName": "rmatej",
+    "score": "129.048",
+    "stats": {
+      "white": 2,
+      "yellow": 2,
+      "black": 0,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T20:50:31.197Z"
+  },
+  {
+    "playerName": "evzen",
+    "score": "72.423",
+    "stats": {
+      "white": 5,
+      "yellow": 0,
+      "black": 1,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T19:50:17.719Z"
+  },
+  {
+    "playerName": "trewew",
+    "score": "41.302",
+    "stats": {
+      "white": 3,
+      "yellow": 0,
+      "black": 0,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T19:56:58.054Z"
+  },
+  {
+    "playerName": "miyera",
+    "score": "32.652",
+    "stats": {
+      "white": 6,
+      "yellow": 0,
+      "black": 3,
+      "red": 0
+    },
+    "timestamp": "2025-03-17T19:55:14.666Z"
+  }
+]
